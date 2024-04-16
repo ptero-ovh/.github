@@ -1,2 +1,2 @@
 # .github
-ptero.ovh's public organization README.md
+ptero.ovh's public organization profile.
